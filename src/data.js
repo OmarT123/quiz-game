@@ -1,0 +1,46 @@
+export default [
+  {
+    category: "General Knowledge",
+    correct_answer: "Spruce Goose",
+    difficulty: "easy",
+    incorrect_answers: ["Fat Man", "Trojan Horse", "Noah Ark"],
+    question: "What was the nickname given to Hughes Hercules?",
+    type: "multiple",
+  },
+  {
+    category: "General Knowldge",
+    correct_answer: "2,722 ft",
+    difficulty: "easy",
+    incorrect_answers: ["108 km", "45 miles", "36 kilometers"],
+    question: "How tall is Burj Khalifa?",
+    type: "multiple",
+  },
+  {
+    category: "General Knowledge",
+    correct_answer: "12",
+    difficulty: "easy",
+    incorrect_answers: ["1", "4", "18"],
+    question: "how many things? 12",
+    type: "multiple",
+  },
+  {
+    category: "General Knowledge",
+    correct_answer: "malala",
+    difficulty: "easy",
+    incorrect_answers: ["lawrence", " werner", "yasser"],
+    question: "Who is the youngest person to receive a Nobel Prize?",
+    type: "multiple",
+  },
+  {
+    category: "General Knowledge",
+    correct_answer: "November 11, 2006",
+    difficulty: "easy",
+    incorrect_answers: [
+      "January 8, 2007",
+      "December 25, 2007",
+      "July 16, 2006",
+    ],
+    question: "When was the Playstation 3 released?",
+    type: "multiple",
+  },
+];
